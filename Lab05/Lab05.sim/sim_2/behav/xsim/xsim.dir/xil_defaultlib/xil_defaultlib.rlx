@@ -1,0 +1,8 @@
+0.7
+2020.1
+May 27 2020
+20:09:33
+H:/Digital_Logic/Lab05/Lab05/Lab05.sim/sim_2/behav/xsim/glbl.v,1590624368,verilog,,,,glbl,,,,,,,,
+H:/Digital_Logic/Lab05/Lab05/Lab05.srcs/sim_2/new/fulladder_test.sv,1600987339,systemVerilog,,,,fulladder_test,,,,,,,,
+H:/Digital_Logic/Lab05/Lab05/Lab05.srcs/sources_1/new/fulladder.sv,1600976659,systemVerilog,,H:/Digital_Logic/Lab05/Lab05/Lab05.srcs/sources_1/new/halfadder.sv,,fulladder,,,,,,,,
+H:/Digital_Logic/Lab05/Lab05/Lab05.srcs/sources_1/new/halfadder.sv,1600989377,systemVerilog,,H:/Digital_Logic/Lab05/Lab05/Lab05.srcs/sim_2/new/fulladder_test.sv,,halfadder,,,,,,,,
